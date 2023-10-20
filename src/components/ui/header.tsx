@@ -38,8 +38,6 @@ const Header = () => {
                             <ListOrderedIcon size={16}/>
                             Catálogo
                         </Button>
-
-                        
                     </div>
                 </SheetContent>
             </Sheet>
